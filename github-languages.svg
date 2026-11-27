@@ -1,88 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="138" class="">
-    <defs>
-        <style/>
-    </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}code,svg{color:#777}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.column,.field{display:flex;align-items:center}.field{margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.column{flex-direction:column}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}code{background-color:#7777771f;display:inline-block;border-radius:6px;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
-    <style/>
-    <foreignObject x="0" y="0" width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                    </svg>
-                    21 Languages
-                </h2>
-            </section>
-            <section class="column">
-                <h3 class="field">Most used languages</h3>
-                <small>estimation from 29.3mb of code in 2783 edited files across 451 commits</small>
-                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
-                    <mask id="languages-bar">
-                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
-                    </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.052726758617" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="181.052726758617" y="0" width="88.13714047977321" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="269.1898672383902" y="0" width="50.510516239398434" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="319.70038347778865" y="0" width="50.21022548201282" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="369.91060895980144" y="0" width="38.913017913226454" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="408.8236268730279" y="0" width="31.083098701234896" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.9067255742628" y="0" width="12.13881509178745" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="452.0455406660502" y="0" width="7.9544593339497265" height="8" fill="#DA5B0B"/>
-                </svg>
-                <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Kotlin
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TSX
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Jupyter Notebook
-                    </div>
-                </div>
-            </section>
-        </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
-    </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="138" viewBox="0 0 480 138" role="img" aria-labelledby="lang-title">
+<title id="lang-title">18 Languages · Most used languages</title>
+<style>
+svg { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji; font-size: 14px; }
+text { fill: #777777; }
+.h2 { fill: #0366d6; font-size: 16px; }
+.h3 { fill: #0366d6; font-size: 14px; }
+.hero { font-size: 40px; font-weight: 700; letter-spacing: -0.5px; font-variant-numeric: tabular-nums; }
+.rownum { font-weight: 600; font-variant-numeric: tabular-nums; }
+.small { font-size: 12px; }
+.muted { fill: #959da5; }
+.leader { stroke: #959da5; stroke-opacity: .5; stroke-dasharray: 1 3; stroke-linecap: round; }
+.tiny { font-size: 10.5px; fill: #959da5; }
+.axis { font-size: 9px; fill: #959da5; }
+.icon { fill: #959da5; }
+.rule { stroke: #959da5; stroke-opacity: .25; }
+.empty { fill: #959da5; fill-opacity: .35; }
+.gx { transform-box: fill-box; transform-origin: 0 50%; animation: gx 1s cubic-bezier(.22,.8,.24,1) .15s both; }
+.gy { transform-box: fill-box; transform-origin: 50% 100%; animation: gy .7s cubic-bezier(.22,.8,.24,1) both; }
+.fade { animation: fade .7s ease-out both; }
+@keyframes gx { from { transform: scaleX(0); } }
+@keyframes gy { from { transform: scaleY(0); } }
+@keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<path class="icon" transform="translate(13 9)" fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+<text x="37.0" y="23.0" class="h2">18 Languages</text>
+<text x="240.0" y="51.0" class="h3" text-anchor="middle">Most used languages</text>
+<text x="240.0" y="66.0" text-anchor="middle" style="font-size:11.6px;">estimation from 163,820 lines of code in 2,247 edited files across 936 commits</text>
+<defs><clipPath id="lang-bar"><rect x="10" y="73" width="460" height="8" rx="5"/></clipPath></defs><g clip-path="url(#lang-bar)"><rect x="10" y="73" width="460" height="8" fill="#d1d5da"/><g class="gx"><rect x="10.00" y="73" width="141.00" height="8" fill="#A97BFF"/><rect x="151.00" y="73" width="82.31" height="8" fill="#EDEDED"/><rect x="233.31" y="73" width="75.25" height="8" fill="#3572A5"/><rect x="308.56" y="73" width="68.43" height="8" fill="#3178C6"/><rect x="376.99" y="73" width="41.64" height="8" fill="#F1E05A"/><rect x="418.63" y="73" width="32.53" height="8" fill="#663399"/><rect x="451.16" y="73" width="15.72" height="8" fill="#E34C26"/><rect x="466.88" y="73" width="3.12" height="8" fill="#012456"/></g></g>
+<g class="fade" style="animation-delay:0.20s"><title>Kotlin · 31% · 49,329</title><circle cx="79.1" cy="96.5" r="4" fill="#A97BFF"/><text x="95.1" y="101.0">Kotlin</text></g>
+<g class="fade" style="animation-delay:0.25s"><title>TSX · 18% · 28,797</title><circle cx="163.8" cy="96.5" r="4" fill="#EDEDED" stroke="#959da5" stroke-opacity=".55"/><text x="179.8" y="101.0">TSX</text></g>
+<g class="fade" style="animation-delay:0.30s"><title>Python · 16% · 26,327</title><circle cx="239.5" cy="96.5" r="4" fill="#3572A5"/><text x="255.5" y="101.0">Python</text></g>
+<g class="fade" style="animation-delay:0.35s"><title>TypeScript · 15% · 23,941</title><circle cx="331.5" cy="96.5" r="4" fill="#3178C6"/><text x="347.5" y="101.0">TypeScript</text></g>
+<g class="fade" style="animation-delay:0.40s"><title>JavaScript · 9% · 14,567</title><circle cx="63.1" cy="116.5" r="4" fill="#F1E05A" stroke="#959da5" stroke-opacity=".55"/><text x="79.1" y="121.0">JavaScript</text></g>
+<g class="fade" style="animation-delay:0.45s"><title>CSS · 7% · 11,382</title><circle cx="180.6" cy="116.5" r="4" fill="#663399"/><text x="196.6" y="121.0">CSS</text></g>
+<g class="fade" style="animation-delay:0.50s"><title>HTML · 3% · 5,498</title><circle cx="256.3" cy="116.5" r="4" fill="#E34C26"/><text x="272.3" y="121.0">HTML</text></g>
+<g class="fade" style="animation-delay:0.55s"><title>PowerShell · 1% · 1,093</title><circle cx="344.1" cy="116.5" r="4" fill="#012456" stroke="#959da5" stroke-opacity=".55"/><text x="360.1" y="121.0">PowerShell</text></g>
 </svg>
