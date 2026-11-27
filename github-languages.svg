@@ -16,33 +16,33 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 38mb of code in 5712 edited files across 723 commits</small>
+                <small>estimation from 29.3mb of code in 2783 edited files across 451 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.54369441331966" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="155.54369441331966" y="0" width="148.94915443393194" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="304.49284884725165" y="0" width="41.165248249456845" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="345.65809709670845" y="0" width="40.92051617195821" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="386.5786132686667" y="0" width="31.713475960953787" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="418.29208922962044" y="0" width="25.33221930130768" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.6243085309281" y="0" width="9.892936637973172" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.5172451689013" y="0" width="6.482754831098703" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.052726758617" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="181.052726758617" y="0" width="88.13714047977321" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="269.1898672383902" y="0" width="50.510516239398434" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="319.70038347778865" y="0" width="50.21022548201282" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="369.91060895980144" y="0" width="38.913017913226454" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="408.8236268730279" y="0" width="31.083098701234896" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.9067255742628" y="0" width="12.13881509178745" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="452.0455406660502" y="0" width="7.9544593339497265" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Kotlin
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Kotlin
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
