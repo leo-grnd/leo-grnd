@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="198" viewBox="0 0 480 198" role="img" aria-labelledby="loc-title">
+<title id="loc-title">143,214 lines of code in Kotlin, TSX, Python, TypeScript &amp; JavaScript</title>
+<style>
+svg { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji; font-size: 14px; }
+text { fill: #777777; }
+.h2 { fill: #0366d6; font-size: 16px; }
+.h3 { fill: #0366d6; font-size: 14px; }
+.hero { font-size: 40px; font-weight: 700; letter-spacing: -0.5px; font-variant-numeric: tabular-nums; }
+.rownum { font-weight: 600; font-variant-numeric: tabular-nums; }
+.small { font-size: 12px; }
+.muted { fill: #959da5; }
+.leader { stroke: #959da5; stroke-opacity: .5; stroke-dasharray: 1 3; stroke-linecap: round; }
+.tiny { font-size: 10.5px; fill: #959da5; }
+.axis { font-size: 9px; fill: #959da5; }
+.icon { fill: #959da5; }
+.rule { stroke: #959da5; stroke-opacity: .25; }
+.empty { fill: #959da5; fill-opacity: .35; }
+.gx { transform-box: fill-box; transform-origin: 0 50%; animation: gx 1s cubic-bezier(.22,.8,.24,1) .15s both; }
+.gy { transform-box: fill-box; transform-origin: 50% 100%; animation: gy .7s cubic-bezier(.22,.8,.24,1) both; }
+.fade { animation: fade .7s ease-out both; }
+@keyframes gx { from { transform: scaleX(0); } }
+@keyframes gy { from { transform: scaleY(0); } }
+@keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+@media (prefers-color-scheme: dark) { .loc-s1 { stop-color: #EDEDED; } .loc-s4 { stop-color: #F1E05A; } }
+</style>
+<defs><linearGradient id="loc-hero" x1="0" x2="1" y1="0" y2="0"><stop class="loc-s0" offset="0.172" stop-color="#A97BFF"/><stop class="loc-s1" offset="0.445" stop-color="#8B949E"/><stop class="loc-s2" offset="0.638" stop-color="#3572A5"/><stop class="loc-s3" offset="0.815" stop-color="#3178C6"/><stop class="loc-s4" offset="0.949" stop-color="#BF8700"/></linearGradient><clipPath id="loc-bar"><rect x="10" y="159" width="460" height="8" rx="4"/></clipPath></defs>
+<path class="icon" transform="translate(13 9)" d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"/>
+<text x="37.0" y="23.0" class="h2">Lines of code</text>
+<g class="fade" style="animation-delay:0.00s"><text x="95.0" y="74.0" class="hero" text-anchor="middle" style="font-size:34px;fill:url(#loc-hero)">143,214</text><text x="95.0" y="95.0" text-anchor="middle" style="font-size:14px;">lines of code</text><text x="95.0" y="113.0" class="small" text-anchor="middle" style="font-size:12px;">in 32 repositories</text><text x="95.0" y="128.0" class="small" text-anchor="middle" style="font-size:12px;">(14 private)</text><text x="95.0" y="143.0" class="small" text-anchor="middle" style="font-size:12px;">since Apr 2025</text></g>
+<line class="rule" x1="186" x2="186" y1="44" y2="147"/>
+<g class="fade" style="animation-delay:0.12s"><title>Kotlin: 49,329 code, 9,224 comment &amp; 5,581 blank lines · 450 commits · raptor-kmp + 7 more</title><circle cx="201" cy="53.5" r="4.5" fill="#A97BFF"/><text x="213.0" y="58.0">Kotlin</text><line class="leader" x1="257.7" x2="368.0" y1="54.0" y2="54.0"/><text x="422.0" y="58.0" class="rownum" text-anchor="end">49,329</text><text x="470.0" y="58.0" class="small muted" text-anchor="end">34%</text></g>
+<g class="fade" style="animation-delay:0.19s"><title>TSX: 28,797 code, 1,461 comment &amp; 2,443 blank lines · 147 commits · tamo-metrics + 12 more</title><circle cx="201" cy="74.5" r="4.5" fill="#EDEDED" stroke="#959da5" stroke-opacity=".55"/><text x="213.0" y="79.0">TSX</text><line class="leader" x1="248.7" x2="368.0" y1="75.0" y2="75.0"/><text x="422.0" y="79.0" class="rownum" text-anchor="end">28,797</text><text x="470.0" y="79.0" class="small muted" text-anchor="end">20%</text></g>
+<g class="fade" style="animation-delay:0.26s"><title>Python: 26,580 code, 3,455 comment &amp; 5,648 blank lines · 128 commits · raptor-gtfs-pipeline + 5 more</title><circle cx="201" cy="95.5" r="4.5" fill="#3572A5"/><text x="213.0" y="100.0">Python</text><line class="leader" x1="265.0" x2="368.0" y1="96.0" y2="96.0"/><text x="422.0" y="100.0" class="rownum" text-anchor="end">26,580</text><text x="470.0" y="100.0" class="small muted" text-anchor="end">19%</text></g>
+<g class="fade" style="animation-delay:0.33s"><title>TypeScript: 23,941 code, 4,631 comment &amp; 3,347 blank lines · 119 commits · tamo-metrics + 13 more</title><circle cx="201" cy="116.5" r="4.5" fill="#3178C6"/><text x="213.0" y="121.0">TypeScript</text><line class="leader" x1="290.4" x2="368.0" y1="117.0" y2="117.0"/><text x="422.0" y="121.0" class="rownum" text-anchor="end">23,941</text><text x="470.0" y="121.0" class="small muted" text-anchor="end">17%</text></g>
+<g class="fade" style="animation-delay:0.40s"><title>JavaScript: 14,567 code, 2,202 comment &amp; 1,188 blank lines · 177 commits · Octane + 13 more</title><circle cx="201" cy="137.5" r="4.5" fill="#F1E05A" stroke="#959da5" stroke-opacity=".55"/><text x="213.0" y="142.0">JavaScript</text><line class="leader" x1="290.4" x2="368.0" y1="138.0" y2="138.0"/><text x="422.0" y="142.0" class="rownum" text-anchor="end">14,567</text><text x="470.0" y="142.0" class="small muted" text-anchor="end">10%</text></g>
+<g clip-path="url(#loc-bar)"><g class="gx" style="animation-delay:0.00s"><rect x="10.00" y="159" width="156.44" height="8" fill="#A97BFF"><title>Kotlin · 34%</title></rect><rect x="168.44" y="159" width="90.50" height="8" fill="#EDEDED"><title>TSX · 20%</title></rect><rect x="260.94" y="159" width="83.37" height="8" fill="#3572A5"><title>Python · 19%</title></rect><rect x="346.31" y="159" width="74.90" height="8" fill="#3178C6"><title>TypeScript · 17%</title></rect><rect x="423.21" y="159" width="46.79" height="8" fill="#F1E05A"><title>JavaScript · 10%</title></rect></g></g>
+<text x="240.0" y="188.0" class="small" text-anchor="middle" style="font-size:12px;">880 commits · 2,099 files · comments, blank lines &amp; generated code excluded</text>
+</svg>
